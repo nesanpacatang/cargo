@@ -3,7 +3,7 @@ export const About = () => {
   return (
     <div className="container ">
       <h2>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, sit tenetur. Neque facilis labore doloribus quis velit. Odio qui molestias placeat? Excepturi, sint mollitia a at consequatur amet neque dignissimos!
+        Lorem ipsum, dolor sit amet consectetur 
       </h2>
       <h2>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias, sit tenetur. Neque facilis labore doloribus quis velit. Odio qui molestias placeat? Excepturi, sint mollitia a at consequatur amet neque dignissimos!
