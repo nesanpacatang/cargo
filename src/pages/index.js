@@ -10,3 +10,4 @@ export { Pickup } from "./Pickup";
 export { Bridal } from "./Bridal";
 export { Family } from "./Family";
 export { Casual } from "./Casual";
+export { Testimonial } from "./Testimonial";
